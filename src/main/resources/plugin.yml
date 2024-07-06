@@ -1,0 +1,9 @@
+name: SystemLOG
+version: '${project.version}'
+main: de.systemlog.SystemLOG
+api-version: '1.20'
+authors: [Stein, EnzolixFan]
+
+commands:
+  Stein:
+    description: The Plugin Command!
