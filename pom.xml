@@ -6,7 +6,7 @@
 
     <groupId>de</groupId>
     <artifactId>SystemLOG</artifactId>
-    <version>1.2</version>
+    <version>2.0</version>
     <packaging>jar</packaging>
 
     <name>SystemLOG</name>
