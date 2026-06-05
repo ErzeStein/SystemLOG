@@ -1,0 +1,64 @@
+webhooks:
+  join:
+    enabled: false
+    url: ""
+  leave:
+    enabled: false
+    url: ""
+  blockbreak:
+    enabled: false
+    url: ""
+  blockplace:
+    enabled: false
+    url: ""
+  chat:
+    enabled: false
+    url: ""
+  commands:
+    enabled: false
+    url: ""
+  kicks:
+    enabled: false
+    url: ""
+  deaths:
+    enabled: false
+    url: ""
+  mobkills:
+    enabled: false
+    url: ""
+  teleport:
+    enabled: false
+    url: ""
+  itemdrop:
+    enabled: false
+    url: ""
+  itempickup:
+    enabled: false
+    url: ""
+  crafting:
+    enabled: false
+    url: ""
+  enchanting:
+    enabled: false
+    url: ""
+  anvil:
+    enabled: false
+    url: ""
+  respawn:
+    enabled: false
+    url: ""
+  bed:
+    enabled: false
+    url: ""
+  signs:
+    enabled: false
+    url: ""
+  level:
+    enabled: false
+    url: ""
+  buckets:
+    enabled: false
+    url: ""
+  inventories:
+    enabled: false
+    url: ""
